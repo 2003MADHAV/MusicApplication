@@ -1,2 +1,2 @@
-# MusicApplication
+# Simple MusicApplication
  
